@@ -18,6 +18,7 @@ Begin
         if (n1 mod 2 = 0) then
         begin
                 writeln ('El numero es par') ;
+                  writeln ('El numero es par') ;
         end
         else
         begin
